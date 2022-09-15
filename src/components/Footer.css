@@ -16,7 +16,7 @@
     text-align: center;
     margin-bottom: 24px;
     padding: 24px;
-    color: #fff;
+    color: #ebd065;
 }
 
 .footer-subscription > p {
@@ -41,7 +41,7 @@
     border: none;
     font-size: 18px;
     margin-bottom: 16px;
-    border: 1px solid #fff;
+    border: 1px solid #ebd065;
 }
 
 .footer-links {
@@ -71,11 +71,11 @@
 }
 
 .footer-link-items > h2 {
-    color: #fff;
+    color: #ebd065;
 }
 
 .footer-link-items a {
-    color: #fff;
+    color: #ebd065;
     text-decoration: none;
     margin-bottom: 8px;
 }

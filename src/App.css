@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "Audrey-Normal";
+  src: local("Audrey-Normal"),
+   url("./fonts/Audrey-Normal.otf") format("opentype");
+  }
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -43,3 +49,4 @@
     color: #fff;
     font-size: 100px;
   }
+
