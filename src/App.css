@@ -6,8 +6,9 @@
   }
   
   .home,
-  .services,
-  .products,
+  .candles,
+  .aboutus,
+  .contact,
   .sign-up {
     display: flex;
     height: 90vh;
@@ -16,7 +17,7 @@
     font-size: 3rem;
   }
   
-  .services {
+  .candles {
     background-image: url('');
     background-position: center;
     background-size: cover;
@@ -25,7 +26,7 @@
     font-size: 100px;
   }
   
-  .products {
+  .aboutus {
     background-image: url('');
     background-position: center;
     background-size: fill;
